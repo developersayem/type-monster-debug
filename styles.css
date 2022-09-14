@@ -24,6 +24,7 @@ body {
   color: white;
   font-size: 25px;
   border-radius: 15px;
+  padding: 20px;
   background: rgb(255, 255, 255);
   background: linear-gradient(
     92.49deg,
@@ -45,6 +46,8 @@ body {
   background-color: #171717;
   border: 2px solid #9dffad;
   border-radius: 15px;
+  padding: 20px;
+
 }
 
 #countdown {
